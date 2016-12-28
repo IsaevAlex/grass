@@ -1,0 +1,24 @@
+{
+  "name": "grass",
+  "version": "1.0.0",
+  "description": "nanocoating for glass",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "grass"
+  },
+  "keywords": [
+    "nanocoating",
+    "for",
+    "glass"
+  ],
+  "author": "AlexIsaev",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-sass": "^3.0.0"
+  }
+}
